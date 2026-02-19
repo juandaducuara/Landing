@@ -2,9 +2,6 @@
   "name": "amarres-de-amor",
   "version": "1.0.0",
   "scripts": {
-    "start": "serve -l $PORT ."
-  },
-  "dependencies": {
-    "serve": "^14.2.4"
+    "start": "node server.js"
   }
 }
